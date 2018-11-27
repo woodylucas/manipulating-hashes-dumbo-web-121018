@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  fi
+  contacts.each do ||
 
 
   #remember to return your newly altered contacts hash!
